@@ -1,11 +1,11 @@
-# 🐾 PawKeep Backend
+# PawKeep Backend
 
 A complete REST API backend for the PawKeep pet care management application.
 Built with Node.js, Express, and MongoDB Atlas.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [About The Project](#about-the-project)
 - [Tech Stack](#tech-stack)
@@ -19,7 +19,7 @@ Built with Node.js, Express, and MongoDB Atlas.
 
 ---
 
-## 📌 About The Project
+##  About The Project
 
 PawKeep is a pet care management application that helps pet owners:
 
